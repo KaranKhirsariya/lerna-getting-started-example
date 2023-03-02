@@ -9,8 +9,8 @@
     "test": "jest"
   },
   "dependencies": {
-    "@kui-kit/footer": "^0.0.1",
-    "@kui-kit/header": "^0.0.1",
+    "@kui-kit/footer": "^0.0.2",
+    "@kui-kit/header": "^0.0.2",
     "@remix-run/node": "^1.5.1",
     "@remix-run/react": "^1.5.1",
     "@remix-run/serve": "^1.5.1",
@@ -41,5 +41,5 @@
       }
     }
   },
-  "version": "0.0.1"
+  "version": "0.0.2"
 }
